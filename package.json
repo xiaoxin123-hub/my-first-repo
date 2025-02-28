@@ -4,8 +4,8 @@
   "description": "A simple contact page with a modal",
   "main": "index.js",
   "scripts": {
-    "build": "echo '无需构建步骤' && mkdir -p build && cp -r study_notes.html styles.css scripts.js build/"
+    "build": "echo '无需构建步骤' && rsync -av --exclude 'build/' . build/"
   },
   "author": "Your Name",
   "license": "ISC"
-}  
+}
