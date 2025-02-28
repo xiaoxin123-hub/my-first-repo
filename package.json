@@ -1,13 +1,11 @@
-npm init -y
 {
-    "name": "contact-page",
-    "version": "1.0.0",
-    "description": "A simple contact page with a modal",
-    "main": "index.js",
-    "scripts": {
-      "build": "echo 'No build step required' && cp -r . build/"
-    },
-    "author": "Your Name",
-    "license": "ISC"
-  }
-  
+  "name": "contact-page",
+  "version": "1.0.0",
+  "description": "A simple contact page with a modal",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'No build step required' && cp -r . build/"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}  
