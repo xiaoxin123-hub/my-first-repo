@@ -1,9 +1,1 @@
-project-root/
-├── src/
-├── public/
-├── build/
-│   ├── study_notes.html
-│   ├── assets/
-│   └── _redirects
-├── package.json
-└── ...
+/study_notes.html  /study_notes.html  200
