@@ -2,7 +2,7 @@ project-root/
 ├── src/
 ├── public/
 ├── build/
-│   ├── index.html
+│   ├── study_notes.html
 │   ├── assets/
 │   └── _redirects
 ├── package.json
