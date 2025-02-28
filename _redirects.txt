@@ -1,1 +1,9 @@
-/*  /index.html  200
+project-root/
+├── src/
+├── public/
+├── build/
+│   ├── index.html
+│   ├── assets/
+│   └── _redirects
+├── package.json
+└── ...
